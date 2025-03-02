@@ -1,2 +1,3 @@
 # first-CURD
-this is a first CRURD doing full stack python flask
+this is a first CRURD doing full stack python flask!
+
